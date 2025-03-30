@@ -37,23 +37,6 @@ JavaScript continues to grow and maintain its position as the most popular progr
 
 ---
 
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-project-name.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-
----
-
 ## Contributing
 
 Feel free to open issues or pull requests if you'd like to contribute to the project. We welcome contributions from the community.
